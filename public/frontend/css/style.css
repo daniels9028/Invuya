@@ -1,0 +1,136 @@
+.info-panel{
+    box-shadow: 0 3px 20px rgba(0,0,0,0.5);
+    border-radius: 12px;
+    margin-top: -100px;
+    background-color:white;
+    padding:30px;
+}
+
+.info-panel img{
+    width:80px;
+    height:80px;
+    margin-right:20px;
+    margin-bottom:20px;
+}
+
+.info-panel h4 {
+    font-size:14px;
+    text-transform:uppercase;
+    font-weight: bold;
+    margin-top: 5px;
+    text-align: center;
+}
+
+.info-panel p{
+    font-size: 14px;
+    color: #ACACAC;
+    margin-top: -5px;
+    font-weight :200;
+}
+
+.akhir{
+    background-color: #ACACAC;
+}
+
+.img-fitur
+{
+    width:50px;
+    height:50px;
+    border-radius: 12px;
+}
+
+.judul
+{
+    text-align: center;
+}
+
+.judul1
+{
+    text-align: justify;
+}
+
+.card-text
+{
+    margin-bottom: 5px;
+    letter-spacing: 1px;
+}
+
+.card-img-top
+{
+    width: 350px;
+    height:350px;
+    border-radius: 12px;
+}
+
+.card-header
+{
+    width:1100px;
+    height:300px;
+}
+
+.sell1
+{
+    width: 1110px;
+    max-height: 1000px;
+    border-radius: 20px;
+}
+
+.form-control
+{
+    border-radius: 12px;
+    width: 350px;
+    text-align: center;
+    
+}
+
+.form-group
+{
+    text-align: center;
+}
+.bg3
+{
+
+    max-height: 422px;
+}
+
+.panelku
+{
+    width: 555px;
+    height: 73px;
+}
+
+.info-fitur
+{
+    border-radius: 12px;
+}
+
+.img-kerja
+{
+    width: 250px;
+    height: 250px;
+    border-radius: 0px;
+}
+
+.info-text
+{
+    text-align: justify;
+}
+
+.info-card
+{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    /* background: rgb(163, 195, 255); */
+}
+
+.navbar1
+{
+    max-height: 80px;
+}
+.gmb
+{
+   max-width: 700px;
+   max-height: 300px;
+
+}
+
